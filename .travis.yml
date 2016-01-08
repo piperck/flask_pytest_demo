@@ -5,4 +5,5 @@ python:
 install:
     - pip install flake8 flake8-respect-noqa pre-commit
 # command to run tests
-script: pytests
+script:
+    - make test
