@@ -9,3 +9,4 @@ flask_pytest_demo
 如果自己懒得搭建又想直接体验travis-ci的快感.
 
 就愉悦的使用和发pr吧：）。
+
